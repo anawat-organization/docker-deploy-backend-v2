@@ -1,8 +1,8 @@
 package camt.se234.deployment.service;
-
+// DeepSource test scan
 import camt.se234.deployment.entity.Grade;
 import org.springframework.stereotype.Service;
-
+// DeepSource test scan
 @Service
 public class GradeServiceImpl implements GradeService {
     @Override
