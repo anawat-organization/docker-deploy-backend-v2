@@ -3,5 +3,5 @@ services:
     image: earth14027/234-deploylab-backend:latest
     pull_policy: always
     ports:
-      - "8083:8080"
+      - "8082:8080"
     restart: unless-stopped
